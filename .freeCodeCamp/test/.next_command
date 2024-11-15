@@ -113,3 +113,4 @@ git remote set-url origin https://github.com/junyenchau/mario-database.git
 git branch -M main
 git push -u origin main
 echo hello PostgreSQL
+psql --username=freecodecamp --dbname=postgres
